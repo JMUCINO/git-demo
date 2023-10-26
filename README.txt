@@ -2,11 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## WEBSITE Contents
 
-kjwehfbaosuibpaweiuewfpiwuaebnpiawenbpiewrunerwa
-waeibhfwaoiubrfaewpiubawnpiwaeunweapirunewrapiu
-aiwbevapwieubrpweaiunewapiuewrarewapiu
+1. index
 
-searabtarebrtyserynbsnyudtbyrdysyntrydtrdnrdnd
-yrdnsrdtbysydtr
